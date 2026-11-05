@@ -1,4 +1,4 @@
-# Hallo freunde, Ich bin Fahreza Ditya aus Indonesien. 👋
+# Hallo Freunde, ich bin Fahreza Ditya aus Indonesien. 👋
 
 <!--
 **fahrezadotditya/fahrezadotditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
